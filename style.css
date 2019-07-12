@@ -1,0 +1,9 @@
+p
+{color: orange}
+h2 {background-color: palegreen}
+.thick-green-border{
+    border-color: blue;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 36px;
+}
