@@ -7,3 +7,8 @@ h2 {background-color: palegreen}
     border-style: double;
     border-radius: 36px;
 }
+#special cell{
+    background-color: blueviolet;
+}
+.silver-background {
+    background-color: silver;
